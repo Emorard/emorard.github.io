@@ -11,7 +11,7 @@ redirect_from: /docs/index.html
 
 一番最初に勉強したのはJavaなのですが、Scalaの方がやりやすい、簡単と言われて同時並行でScalaも触ることに。
 
-最初はOptionの意味がまったくわからず、`Option(A).get()` と大変なコードを書いたこともあります。
+最初はOptionの意味がまったくわからず、`Option(A).get` と大変なコードを書いたこともあります。
 
 ちなみに、最も好きな言語はClojrueです。使えませんが。
 
